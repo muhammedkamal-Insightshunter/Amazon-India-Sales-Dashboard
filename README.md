@@ -2,16 +2,16 @@
 
 A four-page interactive Power BI dashboard built on an Amazon India sales export (~121k rows, 31 Mar – 29 Jun 2022). This is a practice project on a public dataset and is not affiliated with Amazon.
 
+
 ## Dashboard Preview
 
 | Sales Analysis | Customer & Geographic Insights |
 |---|---|
-| [![Sales](images/01_sales_analysis.png)](images/01_sales_analysis.png) | [![Customer](images/02_customer_geographic_insights.png)](images/02_customer_geographic_insights.png) |
+| [![Sales](Sales.png)](Sales.png) | [![Customer](Customer.png)](Customer.png) |
 
 | Operations & Fulfillment | Data Quality Notes |
 |---|---|
-| [![Operations](images/03_operations_fulfillment.png)](images/03_operations_fulfillment.png) | [![Data Quality](images/04_data_quality_notes.png)](images/04_data_quality_notes.png) |
-
+| [![Operations](Operations.png)](Operations.png) | [![Data Quality](Data%20quality.png)](Data%20quality.png) |
 ## Business Questions
 
 - How much revenue is actually realized, and how is it trending month over month?
