@@ -97,4 +97,4 @@ Public "Amazon Sale Report" dataset (Kaggle), used for practice. The raw file is
 
 ## Author
 
-Muhammed Kamal · [LinkedIn]([https://www.linkedin.com/in/YOUR-PROFILE/](https://www.linkedin.com/in/0muhammed-kamal/))
+Muhammed Kamal · [LinkedIn](https://www.linkedin.com/in/0muhammed-kamal/)
